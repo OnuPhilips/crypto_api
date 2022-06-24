@@ -1,0 +1,6 @@
+package com.byaxiom_solutions.crypto_api
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
